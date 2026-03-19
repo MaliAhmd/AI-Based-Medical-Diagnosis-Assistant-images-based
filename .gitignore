@@ -1,0 +1,6 @@
+# Ignore virtual environment directory
+.venv/
+venv/
+.__pycache__/
+__pycache__/
+models/
