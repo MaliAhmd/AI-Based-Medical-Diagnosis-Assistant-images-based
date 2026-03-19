@@ -82,7 +82,7 @@ dataset/
 Clone the repository:
 
 ```
-git clone <your-repo-link>
+git clone <https://github.com/MaliAhmd/AI-Based-Medical-Diagnosis-Assistant-images-based.git>
 cd medical_ai_diagnosis
 ```
 
